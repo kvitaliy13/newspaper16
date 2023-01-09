@@ -1,0 +1,2 @@
+2023-01-09 14:46:05,814 - ERROR - "GET /news/ HTTP/1.1" 500 168742 - C:\Users\User\PycharmProjects\pythonProject\NewsPaper1\venv\Lib\site-packages\django\core\servers\basehttp.py - None
+2023-01-09 14:46:17,666 - ERROR - "GET /news/ HTTP/1.1" 500 169559 - C:\Users\User\PycharmProjects\pythonProject\NewsPaper1\venv\Lib\site-packages\django\core\servers\basehttp.py - None
